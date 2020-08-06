@@ -20,6 +20,7 @@
 ### Imagem do Projeto
 A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos, via tabela, onde podemos pegar os primeiros e agrupar esses produtos numa estante de supermercado ou recomendar os mesmos, pois ali temos a associação Antecedente/Consequente.
   ![Primeira imagem](imagens/Tarefa01Fig01.png)
+<br>   
   ![Segunda imagem](imagens/Tarefa01Fig02.png)
 <br>
 ### Arquivo do Projeto
