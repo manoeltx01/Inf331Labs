@@ -24,7 +24,7 @@ A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos,
   ![Segunda imagem](imagens/Tarefa01Fig02.png)
 <br>
 ### Arquivo do Projeto
-  ![projeto2](orange/projeto2.PNG)
+  [Link para o arquivo ows](orange/Tarefafoodmart.ows)
 <br>
 ## Projeto de Composição de Componentes para Recomendação
   ![diagrama1](imagens/diagrama1.PNG)
