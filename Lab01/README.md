@@ -36,5 +36,5 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
   ![Primeira Imagem](imagens/Lab01Tarefa04Fig01.GIF)
 <br>
 ### Diagrama de Interfaces
-  ![diagrama3](imagens/diagrama3.PNG)
+  ![Segunda Imagem](imagens/Lab01Tarefa04Fig02.GIF)
   --------------------------------------------------------------------- 
