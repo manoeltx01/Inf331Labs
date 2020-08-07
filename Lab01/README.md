@@ -1,7 +1,6 @@
 ## Lab01 - Data Flow
 ## ALUNO
    Manoel Teixeira
-
 <br><br> 
 ## Projeto Orange / Regras de Associação para Foodmart
 ### Imagem do Projeto
