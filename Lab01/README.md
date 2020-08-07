@@ -16,10 +16,10 @@ A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos,
 ## 2	Tarefa Google Play Store
 Analisando, a tabela, a partir do componente, data table, observei que as colunas: “Content Rating” e “Category” de Software seriam interessantes para uma análise. Observamos que a Categoria Educação tem um percentual significativo e é utilizado por todos.
 ### Imagem do Projeto
-  ![Pri Imagem](orange/imagens/Lab01Tarefa02Fig01.gif)
-  ![Seg Imagem](orange/imagens/Lab01Tarefa02Fig02.png)
-  ![Ter Imagem](orange/imagens/Lab01Tarefa02Fig03.png)
-  ![Qua Imagem](orange/imagens/Lab01Tarefa02Fig04.png)
+  ![Pri Imagem](imagens/Lab01Tarefa02Fig01.gif)
+  ![Seg Imagem](imagens/Lab01Tarefa02Fig02.png)
+  ![Ter Imagem](imagens/Lab01Tarefa02Fig03.png)
+  ![Qua Imagem](imagens/Lab01Tarefa02Fig04.png)
 <br> 
 ### Arquivo do Projeto
    ![Link para a Tarefa Google Play Store](orange/googleplaystore.ows)
