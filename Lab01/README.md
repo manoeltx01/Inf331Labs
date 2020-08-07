@@ -10,7 +10,7 @@ A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos,
   ![Segunda imagem](imagens/Tarefa01Fig02.png)
 <br>
 ### Arquivo do Projeto
-  [Link para o arquivo ows](orange/Tarefafoodmart.ows)
+  [Link para o arquivo da Tarefa1, referente a Foodmart](orange/Tarefafoodmart.ows)
 <br>
 
 ## Projeto Orange / Análise de Dados do Google PlayStore
