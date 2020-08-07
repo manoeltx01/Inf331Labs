@@ -24,10 +24,7 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
 ### Arquivo do Projeto
    ![Link para a Tarefa Google Play Store](orange/googleplaystore.ows)
 <br>
-### Gráfico(s) de Análise
-  ![imagem2](imagens/imagem2.PNG)
-<br>
-
+<br><br> 
 ## Projeto de Composição de Componentes para Recomendação
   ![diagrama1](imagens/diagrama1.PNG)
 <br>  
