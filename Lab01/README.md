@@ -35,6 +35,6 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
 ### Diagrama de Componentes
   ![diagrama2](imagens/diagrama2.PNG)
 <br>
-### Diagrama de Interfaces
+### 4	Tarefa Projeto de Composição de Pedido
   ![diagrama3](imagens/diagrama3.PNG)
   --------------------------------------------------------------------- 
