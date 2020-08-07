@@ -28,8 +28,8 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
    ![Link para a Tarefa Google Play Store](orange/googleplaystore.ows)
 <br>
 <br><br> 
-## Projeto de Composição de Componentes para Recomendação
-  ![diagrama1](imagens/diagrama1.PNG)
+## 3	Tarefa Projeto de Composição para Recomendação
+  ![Imagem Unica](imagens/Lab01Tarefa03Fig01.gif)
 <br>  
 ## Projeto de Composição de Componentes para Pedido
 ### Diagrama de Componentes
