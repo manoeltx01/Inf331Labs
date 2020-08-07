@@ -31,10 +31,10 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
 ## 3	Tarefa Projeto de Composição para Recomendação
   ![Imagem Unica](imagens/Lab01Tarefa03Fig01.GIF)
 <br>  
-## Projeto de Composição de Componentes para Pedido
+## 4	Tarefa Projeto de Composição de Pedido
 ### Diagrama de Componentes
   ![diagrama2](imagens/diagrama2.PNG)
 <br>
-### 4	Tarefa Projeto de Composição de Pedido
+### Diagrama de Interfaces
   ![diagrama3](imagens/diagrama3.PNG)
   --------------------------------------------------------------------- 
