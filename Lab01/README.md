@@ -29,7 +29,7 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
 <br>
 <br><br> 
 ## 3	Tarefa Projeto de Composição para Recomendação
-  ![Imagem Unica](imagens/Lab01Tarefa03Fig01.gif)
+  ![Imagem Unica](imagens/Lab01Tarefa03Fig01.GIF)
 <br>  
 ## Projeto de Composição de Componentes para Pedido
 ### Diagrama de Componentes
