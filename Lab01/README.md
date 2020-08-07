@@ -17,8 +17,11 @@ A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos,
 Analisando, a tabela, a partir do componente, data table, observei que as colunas: “Content Rating” e “Category” de Software seriam interessantes para uma análise. Observamos que a Categoria Educação tem um percentual significativo e é utilizado por todos.
 ### Imagem do Projeto
   ![Pri Imagem](imagens/Lab01Tarefa02Fig01.gif)
+  <br> 
   ![Seg Imagem](imagens/Lab01Tarefa02Fig02.png)
+  <br> 
   ![Ter Imagem](imagens/Lab01Tarefa02Fig03.png)
+  <br> 
   ![Qua Imagem](imagens/Lab01Tarefa02Fig04.png)
 <br> 
 ### Arquivo do Projeto
