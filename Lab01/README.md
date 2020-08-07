@@ -2,7 +2,7 @@
 ## ALUNO
    Manoel Teixeira
 <br><br> 
-## Projeto Orange / Regras de Associação para Foodmart
+## 1	Tarefa Orange Foodmart / Regras de Associação para Foodmart
 ### Imagem do Projeto
 A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos, via tabela, onde podemos pegar os primeiros e agrupar esses produtos numa estante de supermercado, conforme observamos na associação Antecedente/Consequente.
   ![Primeira imagem](imagens/Tarefa01Fig01.png)
@@ -10,7 +10,7 @@ A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos,
   ![Segunda imagem](imagens/Tarefa01Fig02.png)
 <br>
 ### Arquivo do Projeto
-  [Link para o arquivo da Tarefa1, referente a Foodmart](orange/Tarefafoodmart.ows)
+  [Link para a Tarefa Orange Foodmart](orange/Tarefafoodmart.ows)
 <br>
 
 ## Projeto Orange / Análise de Dados do Google PlayStore
