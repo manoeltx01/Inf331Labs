@@ -33,7 +33,7 @@ Analisando, a tabela, a partir do componente, data table, observei que as coluna
 <br>  
 ## 4	Tarefa Projeto de Composição de Pedido
 ### Diagrama de Componentes
-  ![diagrama2](imagens/imagens/Lab01Tarefa04Fig01.GIF)
+  ![Primeira Imagem](imagens/Lab01Tarefa04Fig01.GIF)
 <br>
 ### Diagrama de Interfaces
   ![diagrama3](imagens/diagrama3.PNG)
