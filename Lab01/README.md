@@ -2,7 +2,7 @@
 ## ALUNO
    Manoel Teixeira
 
-<br>
+<br><br> 
 ## Projeto Orange / Regras de Associação para Foodmart
 ### Imagem do Projeto
 A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos, via tabela, onde podemos pegar os primeiros e agrupar esses produtos numa estante de supermercado ou recomendar os mesmos, pois ali temos a associação Antecedente/Consequente.
