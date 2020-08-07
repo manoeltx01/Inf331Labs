@@ -2,9 +2,9 @@
 ## ALUNO
    Manoel Teixeira
 <br><br> 
-## 1	Tarefa Orange Foodmart / Regras de Associação para Foodmart
-### Imagem do Projeto
+## 1	Tarefa Orange Foodmart
 A recomendação que faço é conforme, abaixo, tem vários exemplos produzidos, via tabela, onde podemos pegar os primeiros e agrupar esses produtos numa estante de supermercado, conforme observamos na associação Antecedente/Consequente.
+### Imagem do Projeto
   ![Primeira imagem](imagens/Tarefa01Fig01.png)
 <br>   
   ![Segunda imagem](imagens/Tarefa01Fig02.png)
