@@ -4,10 +4,10 @@
 <br><br> 
 ## 1	Tarefa sobre catalogo de componenetes
 
- [Link para o NOTEBOOK das tarefas] (notebook/components-01-catalog.ipynb)
+[Link para o NOTEBOOK das tarefas](notebook/components-01-catalog.ipynb)
 
 ## 2	Tarefa Web Componentes 1
-~~~htlm
+~~~html
 <dcc-trigger label="Mundo"
              action="noticia/mundo/politica"
              value="A crise entre os Chines e os EUA não tem fim!">
