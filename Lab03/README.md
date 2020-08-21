@@ -32,4 +32,4 @@ alt="Tela 4 <br>Compra de um dos produtos efetiva" src="images/Tela04.jpeg" widt
 [Baixe aqui o arquivo do aplicativo exportado a partir do MIT App Inventor em formato aia.](app/Inf331Lab03Tarefa3MT.aia)<br>
    
 ## Tarefa 4
-Imagens da Equipe 4 postadas no endereço [https://github.com/grupo04](https://github.com/grupo04)
+Imagens da Equipe 4 postadas no endereço [https://github.com/grupo04](https://github.com/INF331-equipe4/Labs)
