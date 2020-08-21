@@ -10,6 +10,7 @@ Manoel Teixeira<br><br>
 ![Diagrama de Coreografia](images/Tarefa2.JPG) </br>
 
 Sequencia dos Passos, referente ao Diagrama de Coreografia
+
 </br>a) Tudo começa pela Interface A, onde através desta o cliente manifesta o seu desejo de adquirir um produto no Marketplace, via o componente selecionar produto; 
 </br>b) A partir da Interface B se busca o produto escolhido, ou seja, que por sua vez será entregue ao componente lança cotação;
 </br>c) Na sequencia, via a interface C, a cotação é lançada no barramento, por evento, onde os fornecedores subscritos, através de categoria de produto, poderão participar desta transação;
