@@ -3,16 +3,16 @@
 Manoel Teixeira<br><br>
 ## Tarefa 1 - Componentes de Negocio
 
-![Componentes de Negocio](images/Inf331Lab03Tarefa1MTDCeDA.GIF)
+![Componentes de Negocio](images/Slide1.JPG)
 <br>
 
 ## Tarefa 2 - Componentes Técnicos (View, Controller)
 
-![Componentes de Negocio](images/Inf331Lab03Tarefa1MTDCeDA.GIF)
+![Componentes de Negocio](images/Slide2.JPG)
 <br>
 
 ## Tarefa 3 - Componentes Técnicos (Controller, Model)
 
-![Componentes de Negocio](images/Inf331Lab03Tarefa1MTDCeDA.GIF)
+![Componentes de Negocio](images/Slide3.JPG)
 <br>
 
