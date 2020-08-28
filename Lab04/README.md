@@ -86,3 +86,77 @@ x-xss-protection: 1; mode=block
 }
 ~~~
 
+* **Título do serviço**: `Refuge Restrooms`
+* **Breve descrição**:
+Este serviço é para ajudar as pessoas a encontrarem banheiros seguros. Estamos falando de banheiros públicos, seguros e acessíveis para pessoas transgêneros que não se conforma com o gênero.
+* **URL completa da requisição**: `https://www.refugerestrooms.org/api/v1/restrooms.json?ada=true&unisex=true`
+* **Cabeçalho HTTP da chamada**:
+~~~http
+GET /https://www.refugerestrooms.org/api/v1/restrooms.json?ada=true&unisex=true HTTP/2
+Host: any-api.com:8443
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+Accept: application/xml
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://any-api.com
+Connection: keep-alive
+Referer: https://any-api.com/refugerestrooms_org/refugerestrooms_org/console/restrooms/GET_version_restrooms_format_If-None-Match: W/"3841149dc7e6c2e47995d83a9b4fbd13" TE:Trailers
+~~~
+* **Cabeçalho HTTP da resposta**:
+~~~http
+HTTP/2 304 Not Modified
+date: Fri, 28 Aug 2020 11:41:32 GMT
+content-length: 0
+set-cookie: __cfduid=d8176acac19c53ed2473978a0e8f8ec0d1598614891; expires=Sun, 27-Sep-20 11:41:31 GMT; path=/; domain=.any-api.com; HttpOnly; SameSite=Lax
+x-request-url: https://www.refugerestrooms.org/api/v1/restrooms.json?ada=true&unisex=true
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, OPTIONS
+access-control-expose-headers: server,date,content-length,connection,access-control-allow-origin,access-control-allow-methods,access-control-expose-headers,access-control-max-age,x-total,x-total-pages,x-per-page,x-page,x-next-page,x-prev-page,x-offset,etag,cache-control,x-request-id,x-runtime,strict-transport-security,vary,via,x-final-url
+access-control-max-age: 7200
+x-total: 22606
+x-total-pages: 2261
+x-per-page: 10
+x-page: 1
+x-next-page: 2
+x-prev-page: 
+x-offset: 0
+etag: W/"3841149dc7e6c2e47995d83a9b4fbd13"
+cache-control: max-age=0, private, must-revalidate
+x-request-id: 58c85607-292d-45ca-82d5-885af380a78d
+x-runtime: 0.594487
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Origin
+via: 1.1 vegur
+x-final-url: https://www.refugerestrooms.org/api/v1/restrooms.json?ada=true&unisex=true
+cf-cache-status: DYNAMIC
+cf-request-id: 04d67883fc0000f87b8008d200000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 5c9dc37ffff9f87b-GIG
+X-Firefox-Spdy: h2
+~~~
+* **Conteúdo da resposta**:
+~~~json
+{
+    "id": 56510,
+    "name": "Home Depo",
+    "street": " 1301 S Camino Del Rio",
+    "city": "Durango",
+    "state": "Co",
+    "accessible": true,
+    "unisex": true,
+    "directions": "its in the back by the gendered bathrooms",
+    "comment": "It's a prety nice bathroom",
+    "latitude": 37.224112,
+    "longitude": -107.859198,
+    "created_at": "2020-08-28T01:45:10.571Z",
+    "updated_at": "2020-08-28T01:45:10.661Z",
+    "downvote": 0,
+    "upvote": 0,
+    "country": "US",
+    "changing_table": true,
+    "edit_id": 56510,
+    "approved": true
+  }
+~~~
+
