@@ -24,6 +24,7 @@ Manoel Teixeira<br><br>
 * **Breve descrição**:
 Existem diversos serviços a disposição, referente a cuidados com a saúde. No exemplo que peguei, temos a questão da pensão alimentícia, ou seja, é o dinheiro que você recebe de um cônjuge com quem você não mora mais, ou de um ex-cônjuge, se pago a você como parte de um acordo de divórcio, acordo de separação ou ordem judicial.
 * **URL completa da requisição**: `https://any-api.com:8443/https://www.healthcare.gov/glossary/alimony.json`
+
 * **Cabeçalho HTTP da chamada**:
 ~~~http
 GET /https://www.healthcare.gov/glossary/alimony.json HTTP/2
