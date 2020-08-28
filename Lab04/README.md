@@ -90,6 +90,7 @@ x-xss-protection: 1; mode=block
 * **Breve descrição**:
 Este serviço é para ajudar as pessoas a encontrarem banheiros seguros. Estamos falando de banheiros públicos, seguros e acessíveis para pessoas transgêneros que não se conforma com o gênero.
 * **URL completa da requisição**: `https://www.refugerestrooms.org/api/v1/restrooms.json?ada=true&unisex=true`
+
 * **Cabeçalho HTTP da chamada**:
 ~~~http
 GET /https://www.refugerestrooms.org/api/v1/restrooms.json?ada=true&unisex=true HTTP/2
