@@ -7,4 +7,4 @@
 > ![Diagrama de Subcomponentes](images/Slide4.JPG)
 
 ## Tarefa 2
-Link para o projeto no Codepen: [React 03 - Componente Barra](https://codepen.io/santanche/pen/KKzmbwR)
+Link para o projeto no Codepen: [React 03 - Componente Barra](https://codepen.io/manoeltx01/pen/WNwXRge)
