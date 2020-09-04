@@ -1,13 +1,5 @@
 # Modelo para Apresentação do Lab05 - Subcomponentes e Páginas Dinâmicas
 
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagens usadas no documento
-~~~
-
 ## Tarefa 1
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
 > 
