@@ -1,4 +1,4 @@
-# Lab05 - WEB como Plataformas e Subcomponentes
+# Lab05 - Web como Plataformas e Subcomponentes
 
 ## Tarefa 1
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
